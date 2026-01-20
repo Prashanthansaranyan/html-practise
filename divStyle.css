@@ -1,0 +1,39 @@
+#code{
+		background-color:#b5f85a;
+		position: relative;
+		height:500px;
+		width:500px;
+		}
+#name{
+		position:absolute;
+		top: 8px;
+	    right: 16px;
+	    font-size: 20px;
+		}
+#bag{
+		position:absolute:
+		top: 8px;
+        left: 16px;
+        font-size: 20px;
+		}
+#lap{
+		position:absolute;
+        bottom: 8px;
+        left: 16px;
+        font-size: 20px;
+		}
+#call{
+	    position:absolute;
+        bottom: 8px;
+        right: 16px;
+        font-size: 20px;
+		}
+/* #center{  
+		position:absolute;.
+		top:50%;
+		left:50%;
+		font-size:20px;
+		text-align:center;
+		width: 100%;
+		transform: translate(-50%, -50%);
+		}*/
